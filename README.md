@@ -1,5 +1,3 @@
-# design-pattern-observer
+# Observer pattern
 
-<div style="text-align: center;">
-  <img src="diagram.png" alt="Diagrama de clases">
-</div>
+![Diagrama](diagram.png)
