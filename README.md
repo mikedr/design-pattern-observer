@@ -1,3 +1,3 @@
 # design-pattern-observer
 
-![Diagrama](diagramClass.png)
+![Diagrama](diagram.png)
