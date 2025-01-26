@@ -1,4 +1,4 @@
-# design-pattern-observer
+# Observer pattern
 
 ![Diagrama](diagram.png)
 
